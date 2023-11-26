@@ -1,0 +1,10 @@
+- implement substring of a string. also make it case sensitive
+- Find a square of a number. but you can only use addition or subtraction but no multiplication or division
+- From two sorted array how would you find common number?
+- From web page, how would u find similar words like rat, cat, bat and broom, groom etc.
+- get first 100 character long string from a big message but dont cut the last word (word break problem)
+- Find the max difference of elements from two sorted array with non duplicate integer elements
+- Determine if a positive number can be expressed as a sum of two cubes?
+- 4SUM - 
+- from an array of integers find 10 numbers closest to a given number amazon
+- find a rotation point of a sorted array.

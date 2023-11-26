@@ -8,18 +8,18 @@ Position - SDE-2 (Frontend Enginner)
 
 1st ROUND - Domain specific round
 📌 Project discussion
-📌 Implementation of currying function.
+## Implementation of currying function.
 Fun(1)(2)(3)
 👉Follow up - what if argument goes till n?
 
-📌 Implementation of group by pollyfill. (try this and test your skill )
+## Implementation of group by pollyfill. (try this and test your skill )
 
 https://lnkd.in/dsruN7Vy
 
 Follow up-
-👉 What if arguments are functions.
-👉What if arguments is mixture of funtion + string+ number + promise.
-👉 How will you handle async call in group by.
+## What if arguments are functions.
+## What if arguments is mixture of funtion + string+ number + promise.
+## How will you handle async call in group by.
 
 
 RESULT - Went well ❤️
